@@ -14,7 +14,7 @@ Here is the link of the challange-
 https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-
 
 Here is the solution site url-
-http://127.0.0.1:5500/#
+https://drougnov.github.io/3-column-preview-card-component-main/
 
 ## Built with
 
